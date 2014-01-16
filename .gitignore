@@ -1,0 +1,15 @@
+composer.phar
+composer.lock
+phpunit.xml
+Tests/autoload.php
+Tests/Functional/app/Behat/nginx.conf
+Tests/Functional/web/bundles
+vendor
+*.bak
+*.back
+*.swp
+*.log
+*~
+.DS_Store
+.idea/
+._.DS_Store
