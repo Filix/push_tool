@@ -1,9 +1,9 @@
 {
-    "name": "Filix/push-bundle",
+    "name": "filix/push-bundle",
     "type": "symfony-bundle",
     "description": "This Bundle provides like functionality for Symfony2 applications",
     "keywords": ["push", "notification"],
-    "homepage": "https://github.com/filix/push_tool",
+    "homepage": "https://github.com/Filix/push_tool",
     "license": "MIT",
     "authors": [{
         "name": "Filix",
