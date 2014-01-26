@@ -1,5 +1,5 @@
 {
-    "name": "Filix/push-bundle",
+    "name": "filix/push-bundle",
     "description": "This Bundle provides like functionality for php applications",
     "keywords": ["push", "app push", "notification"],
     "homepage": "https://github.com/Filix/push_tool",
