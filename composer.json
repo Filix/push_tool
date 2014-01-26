@@ -10,7 +10,7 @@
     }],
     "require": {
         "php": ">=5.3.2",
-        "filix/jpush-bundle": "1.0.*@dev"
+        "filix/jpush-bundle": "*"
     },
     "suggest": {
 
