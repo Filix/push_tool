@@ -1,0 +1,13 @@
+parameters:
+#    filix_push.example.class: Filix\PushBundle\Example
+
+services:
+    fp.baidu.pusher:
+        class: Filix\PushBundle\Util\BaiduPusher
+
+    fp.jpush.pusher:
+        class: Filix\PushBundle\Util\JpushPusher
+        
+    fp.getui.pusher:
+        class: Filix\PushBundle\Util\GetuiPusher
+
